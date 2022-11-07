@@ -2253,10 +2253,10 @@ One might happen in week 8. Because in this week, the strenths of the top 10 nod
 ### Ocation 2
 
 # Reference
+Annika, B, Benjamin, F and Matthias, L (2014): Exploring the Bitcoin Network. Institute of Information Systems, Humboldt University Berlin, Spandauer Str. 1, 10178 Berlin, Germany 
 
 
 Borgatti, S (2005): Centrality and Network Flows. Social Networks 27(1): 55-71. 
 
 Mao, G; Zhang, N (2013): Analysis of Average Shortest-Path  Length  of  Scale-Free  Network.  Journal  of Applied Mathematics, Vol. 2013, Article ID 865643
 
-Annika, B, Benjamin, F and Matthias, L (2014): Exploring the Bitcoin Network. Institute of Information Systems, Humboldt University Berlin, Spandauer Str. 1, 10178 Berlin, Germany 
